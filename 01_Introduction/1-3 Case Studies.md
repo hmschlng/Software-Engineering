@@ -1,4 +1,4 @@
-## 🍎 Case Studies
+# 🍎 Case Studies
 ---
 <br>
 
