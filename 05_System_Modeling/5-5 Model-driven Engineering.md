@@ -1,8 +1,8 @@
-# 🍎 5-5 Model-driven Engineering
+# 🍎 5-5 Model-driven Engineering ❌
 ---
 <br>
 
-### ✅ Model-driven engineering
+### ✅ Model-driven engineering (모델기반 엔지니어링)
 - MDE(Model-Drivening Engineering)는 프로그램이 아닌 모델이 개발 프로세스의 주요 결과물인 소프트웨어 개발에 대한 접근 방식입니다.
 <br>
 
