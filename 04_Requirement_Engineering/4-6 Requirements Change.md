@@ -28,6 +28,8 @@
 > 
 > <br>
 
+<br>
+
 ### ✅ Requirements evolution (요구 사항 진화)
 ![1](https://i.imgur.com/2FC9Mt4.png)
 

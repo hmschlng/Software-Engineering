@@ -87,7 +87,7 @@ specifications)</td>
 🔹 요구사항이 필요한 이유에 대한 설명(근거) 등을 포함합니다.
 <br>
 
-#### 👎🏼 자연어의 문제
+#### 👎🏼 자연어의 문제 🍓
 - 명확하지 않음
   - 문서를 덜 어렵게 만들수록 정확도나 엄밀함은 떨어집니다.
 <br>
@@ -127,7 +127,7 @@ specifications)</td>
 
 <br>
 
-#### 구조화된 작성법 - 양식 기반 사양
+#### 구조화된 작성법 - 양식 기반 사양 🍓
 - 함수 또는 엔티티의 정의.
 <br>
 
@@ -173,7 +173,7 @@ specifications)</td>
 ![1](https://i.imgur.com/4NvP3W6.png)
 <br>
 
-### ✅ Use cases (사용 사례)
+### ✅ Use cases (사용 사례) 
 > <br>
 > 
 > Use Case는 UML에서 포함하고 시나리오의 하나입니다.
@@ -194,7 +194,7 @@ specifications)</td>
 ![1](https://i.imgur.com/5Sbclga.png)
 <br>
 
-### ✅ The software requirements document (소프트웨어 요구 사항 문서)
+### ✅ The software requirements document (소프트웨어 요구 사항 문서) 
 > <br>
 >
 > - 소프트웨어 요구사항 문서는 **개발자에게 필요한 것이 무엇인지 그 요구사항을 공식적으로 기술한 문서**입니다.

@@ -13,7 +13,7 @@
 <br>
 
 
-### ✅ System boundaries (시스템 경계)
+### ✅ System boundaries (시스템 경계) 
 - 시스템 경계는 시스템 내부와 시스템 외부에 있는 것을 정의하기 위해 설정됩니다.
   - 사용 중이거나 개발 중인 시스템에 종속된 외부의 다른 시스템을 보여줍니다.
 <br>
@@ -42,7 +42,5 @@
 
 #### Mentcare 예시 : 강제 수용에 관한 프로세스 모델
 ![1](https://i.imgur.com/tpAzTIs.png)
-
-
 <br>
 

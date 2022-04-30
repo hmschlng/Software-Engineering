@@ -51,7 +51,7 @@
 <br>
 
 
-### Types of requirement (요구사항의 유형)
+### Types of requirement (요구사항의 유형) 
 - **사용자 요구 사항** (High Level)
   - 고객을 위해서 작성한 자연어와 다이어그램으로 된 문서입니다. 
   - 시스템이 제공하는 서비스와 운영상의 제약 등의 내용을 담고 있습니다.
@@ -70,7 +70,7 @@
 ![1](https://i.imgur.com/PKkIwnk.png)
 <br>
 
-### System stakeholders (시스템 이해 관계자)
+### System stakeholders (시스템 이해 관계자) 
 - 어떤 식으로든 시스템의 영향을 받아 정당한 이해관계가 있는 개인 또는 조직
 <br>
 
